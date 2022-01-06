@@ -12,3 +12,5 @@
 - 📒 I speak in five languages: English, Turkish, Mongolian, Kazakh and Russian
 - 🦾 Interested in...  Articial Intelligence.
 
+
+(https://github.com/Zyeinyep/Zyeinyep/blob/master/argyleink-sm2.gif?raw=true)

@@ -8,7 +8,7 @@
 - 💬 Ask me about... any problem.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: enjoy travelling ✈️ and listening to music🎶.
+- ⚡Facts: enjoy travelling ✈️ and listening to music🎶.
 - 📒 I speak in five languages: English, Turkish, Mongolian, Kazakh and Russian
 - 🦾 Interested in...  Artificial Intelligence.
 

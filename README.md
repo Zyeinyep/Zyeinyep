@@ -10,7 +10,7 @@
 - 😄 Pronouns: she/her/hers
 - ⚡Facts: enjoy travelling ✈️ and listening to music🎶.
 - 📒 I speak in five languages: English, Turkish, Mongolian, Kazakh and Russian
-- 🦾 Interested in...  Artificial Intelligence.
+- 🦾 Interested in... Artificial Intelligence.
 
 
 

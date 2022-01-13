@@ -12,7 +12,7 @@
 - ⚡Facts: enjoy travelling ✈️ and listening to music🎶.
 - 📒 I speak in five languages: English, Turkish, Mongolian, Kazakh and Russian
 - 🦾 Interested in... Artificial Intelligence.
-- 
+-💻Have experience in... Java, Arduino 
 
 
 

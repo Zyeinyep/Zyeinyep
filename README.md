@@ -2,18 +2,13 @@
 
 
 - 🔭 I’m currently studying... Computer Science at Purdue University .
-- 📓 Minoring in... Mathematics.
 - 🖥 Track... Machine Intelligence.
-- 🌱 I’m currently learning...Programming in C.
-- 👯 I’m looking to collaborate... on any projects that are in Java, C and C++ programming languages.
-- 💬 Ask me about... any problem.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
 - 😄 Pronouns: she/her/hers
 - ⚡Facts: enjoy travelling ✈️ and listening to music🎶.
 - 📒 I speak in five languages: English, Turkish, Mongolian, Kazakh and Russian
-- 🦾 Interested in... Artificial Intelligence.
 -💻Have experience in... Java, Arduino,C
--Favorite programming language... C
+
 
 
 

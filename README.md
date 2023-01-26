@@ -6,7 +6,7 @@
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
 - 💻Have experience in... Java, C, C++, Arduino
 - 😄 Pronouns: she/her/hers
-- Teaching assistant for CS180 : Problem Solving and Programming.
+- Teaching assistant for CS180 : Problem Solving and Object-Oriented Programming
 
 
 

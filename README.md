@@ -1,6 +1,6 @@
 ### Hello,Here is about me😊
 
-
+- Linkedln: www.linkedin.com/in/zyeinyep-khaval-5a492b229
 - 🔭 I’m currently studying... Computer Science at Purdue University .
 - 🖥 Track... Machine Intelligence.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu

@@ -4,9 +4,9 @@
 - 🔭 I’m currently studying... Computer Science at Purdue University .
 - 🖥 Track... Machine Intelligence.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
--  -💻Have experience in... Java, C, C++, Arduino
+- 💻Have experience in... Java, C, C++, Arduino
 - 😄 Pronouns: she/her/hers
--💻Have experience in... Java, C, C++, Arduino
+
 
 
 

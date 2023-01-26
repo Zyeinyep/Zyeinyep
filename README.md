@@ -5,9 +5,8 @@
 - 🖥 Track... Machine Intelligence.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
 - 😄 Pronouns: she/her/hers
-- ⚡Facts: enjoy travelling ✈️ and listening to music🎶.
 - 📒 I speak in five languages: English, Turkish, Mongolian, Kazakh and Russian
--💻Have experience in... Java, Arduino,C
+-💻Have experience in... Java, C, C++, Arduino
 
 
 

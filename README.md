@@ -4,7 +4,14 @@
 - 🔭 I’m currently studying... Computer Science at Purdue University .
 - 🖥 Tracks... Machine Intelligence, Security.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
-- 💻Have experience in... Java, C, C++, Arduino
+- 💻Have experience in... Java, C, C++, MongoDB, Shell Scripting, GNU Debugger, 
+Assembly Language, 
+MySQL, 
+Bash, 
+Vim, 
+Regular Expressions,
+SQL, 
+Neo4j, Arduino
 - 😄 Pronouns: she/her/hers
 - Teaching assistant for CS180 : Problem Solving and Object-Oriented Programming
 

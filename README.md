@@ -2,7 +2,7 @@
 
 - Linkedln: www.linkedin.com/in/zyeinyep-khaval-5a492b229
 - 🔭 I’m currently studying... Computer Science at Purdue University .
-- 🖥 Tracks... Machine Intelligence.
+- 🖥 Tracks... Machine Intelligence, Security.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
 - 💻Have experience in... Java, C, C++, Arduino
 - 😄 Pronouns: she/her/hers

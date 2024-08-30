@@ -4,7 +4,7 @@
 - 🔭 I’m currently studying... Computer Science at Purdue University .
 - 🖥 Tracks... Machine Intelligence, Security.
 - 📫 How to reach me: [via email] zkhaval@purdue.edu
-- 💻Have experience in... Java, C, C++, MongoDB, Shell Scripting, GNU Debugger, Assembly Language, MySQL, Bash, Valgrind, Lex, Yacc, Vim, Regular Expressions, SQL, Neo4j, Arduino, Beacon
+- 💻Have experience in... Java, C, C++, MongoDB, Shell Scripting, GNU Debugger, Assembly Language, MySQL, Bash, Valgrind, Lex, Yacc, Vim, Regular Expressions, SQL, Neo4j, Arduino, Beacon, IoT
 - 😄 Pronouns: she/her/hers
 - Teaching assistant for CS180 : Problem Solving and Object-Oriented Programming
 

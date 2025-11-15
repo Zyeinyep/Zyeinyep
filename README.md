@@ -1,9 +1,9 @@
 ### Hello,Here is about me😊
 
 - Linkedln: www.linkedin.com/in/zyeinyep-khaval-5a492b229
-- 🔭 I’m currently studying... Computer Science at Purdue University .
-- 🖥 Tracks... Machine Intelligence, Security.
-- 📫 How to reach me: [via email] zkhaval@purdue.edu
+- 🔭 Purdue Computer Science Alum.
+- 🖥 Track... Machine Intelligence.
+- 📫 How to reach me: [via email] zyeinyepk@gmail.com
 - 💻Have experience in... Java, C, C++, MongoDB, Shell Scripting, GNU Debugger, Assembly Language, MySQL, Bash, Valgrind, Lex, Yacc, Vim, Regular Expressions, SQL, Neo4j, Arduino, Beacon, IoT
 - 😄 Pronouns: she/her/hers
 - Teaching assistant for CS180 : Problem Solving and Object-Oriented Programming

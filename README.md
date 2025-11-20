@@ -4,7 +4,7 @@
 - 🔭 Purdue Computer Science Alum.
 - 🖥 Track... Machine Intelligence.
 - 📫 How to reach me: [via email] zyeinyepk@gmail.com
-- 💻Have experience in... Python, Java, C, C++, MongoDB, Shell Scripting, Assembly Language, MySQL, Bash, Valgrind, SQL
+- 💻Have experience in... Python, Java, C, C++, MongoDB, Shell Scripting, Assembly Language, MySQL, Bash, Valgrind, SQL, Simulink
 - 😄 Pronouns: she/her/hers
 - Teaching assistant for CS180 : Problem Solving and Object-Oriented Programming
 

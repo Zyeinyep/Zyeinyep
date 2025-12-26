@@ -1,13 +1,10 @@
 ### Hello,Here is about me😊
 
 - Linkedln: www.linkedin.com/in/zyeinyep-khaval-5a492b229
-- 🔭 Purdue Computer Science Alum.
-- 🖥 Track... Machine Intelligence.
+- 🔭 Purdue Computer Science with concentration in Machine Learning.
 - 📫 How to reach me: [via email] zyeinyepk@gmail.com
-- 💻Have experience in... Python, Java, C, C++, MongoDB, Shell Scripting, Assembly Language, MySQL, Bash, Valgrind, SQL, Simulink
-- 😄 Pronouns: she/her/hers
-- Teaching assistant for CS180 : Problem Solving and Object-Oriented Programming
-
+- 💻Have experience in... Python, Java, C, C++, Frontend, Backend, MBD and more.
+- 
 
 
 

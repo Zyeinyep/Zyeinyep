@@ -5,7 +5,7 @@
 - 📫 How to reach me: [via email] zyeinyepk@gmail.com
 - 💻Have experience in... Python, Java, C, C++, Frontend, Backend, MBD and more.
 - Software Engineer
-- Passionate about building AI agents.
+- Passionate about building AI agents. Building a project that utilizes multiple agents.
 
 
 
